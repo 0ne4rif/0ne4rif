@@ -1,5 +1,7 @@
 ### Hi there 👋
-### 🌱 I’m currently learning Angular
+### 🌱 I’m currently working using Angular & React
+
+free, free Palestine
 <!--
 **0ne4rif/0ne4rif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
